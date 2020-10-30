@@ -31,13 +31,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E68EA6E7-0795-4C9B-8D8E-E5938518C2AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Api", "src\Microservices\Api\MicroRabbit.Banking.Api\MicroRabbit.Banking.Api.csproj", "{0A86AD41-5092-4FD9-B4E2-16A12D963DCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Api", "src\Microservices\Api\MicroRabbit.Banking.Api\MicroRabbit.Banking.Api.csproj", "{0A86AD41-5092-4FD9-B4E2-16A12D963DCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Application", "src\Microservices\Application\MicroRabbit.Banking.Application\MicroRabbit.Banking.Application.csproj", "{DCF647F7-4E22-4129-8410-94884B17FC3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Application", "src\Microservices\Application\MicroRabbit.Banking.Application\MicroRabbit.Banking.Application.csproj", "{DCF647F7-4E22-4129-8410-94884B17FC3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Data", "src\Microservices\Data\MicroRabbit.Banking.Data\MicroRabbit.Banking.Data.csproj", "{BC236521-DA5B-4731-96BA-49506CCAF199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Data", "src\Microservices\Data\MicroRabbit.Banking.Data\MicroRabbit.Banking.Data.csproj", "{BC236521-DA5B-4731-96BA-49506CCAF199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Banking.Domain", "src\Microservices\Domain\MicroRabbit.Banking.Domain\MicroRabbit.Banking.Domain.csproj", "{8CEA6822-4D15-4493-B567-4855BEF24ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Banking.Domain", "src\Microservices\Domain\MicroRabbit.Banking.Domain\MicroRabbit.Banking.Domain.csproj", "{8CEA6822-4D15-4493-B567-4855BEF24ED7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
