@@ -5,10 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Events\" />
-    <Folder Include="Commands\" />
-    <Folder Include="CommandHandlers\" />
     <Folder Include="EventHandlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Domin\MicroRabbit.Domin.Core\MicroRabbit.Domin.Core.csproj" />
   </ItemGroup>
 
 </Project>
